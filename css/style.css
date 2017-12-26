@@ -1,24 +1,24 @@
-body {	
-	background: -webkit-linear-gradient(0deg, rgb(246, 246, 246), rgb(246, 246, 246));
-	background: linear-gradient(0deg, rgb(246, 246, 246), rgb(246, 246, 246));
+body {  
+  background: -webkit-linear-gradient(0deg, rgb(246, 246, 246), rgb(246, 246, 246));
+  background: linear-gradient(0deg, rgb(246, 246, 246), rgb(246, 246, 246));
 }
 
 .nav-item {
-	line-height: 45px;
+  line-height: 45px;
 }
 
 .logo {
-	height: 7vh;
+  height: 7vh;
 }
 
 
 
 .form-control {
-	border-radius: 0;	
+  border-radius: 0; 
 }
 
 .btn {
-	border-radius: 0;
+  border-radius: 0;
 }
 
 .card {
@@ -28,6 +28,11 @@ body {
 .owl-carousel {
   background: -webkit-linear-gradient(0deg, rgb(246, 246, 246), rgb(246, 246, 246));
   background: linear-gradient(0deg, rgb(246, 246, 246), rgb(246, 246, 246)); 
+}
+
+.owl-carousel .owl-stage {
+  display: flex;
+  align-items: center;
 }
 
 .shiva
@@ -49,6 +54,6 @@ body {
 }
 
 .footer {
-	background-color: #343a40;
-	padding: 3%;
+  background-color: #343a40;
+  padding: 3%;
 }
