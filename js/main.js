@@ -5,6 +5,6 @@ function check(form) {
 	}
 	else
 	{
-		alert("Нагадати пароль");
+		alert("Нагадати пароль")
 	}
 }
